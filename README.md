@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**rohitkumawat-dev/rohitkumawat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech EXTC | Software Developer | Building real-world projects
 
-Here are some ideas to get you started:
+## 🌐 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="linkedin.com/in/rohitkumawat1404/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=rohitkumawat-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+## 🚀 Projects
+...
