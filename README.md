@@ -56,7 +56,7 @@ B.Tech EXTC | Software Developer | Building real-world projects
 
 <picture>
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/rohitkumawat-dev/rohitkumawat-dev/output/github-contribution-grid-snake-dark.svg"
   />
   <source
