@@ -1,6 +1,6 @@
 # Hi, I'm Rohit 👋
 
-B.Tech EXTC | Software Developer | Building real-world projects
+B.Tech EXTC | Software Developer | 
 
 ## 🌐 Connect With Me
 
