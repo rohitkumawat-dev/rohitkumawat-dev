@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/rohitkumawat-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=git+commit+-m+%22fix+everything%22;Third-year+EXTC+student+%40+Mumbai;I+design+it.+I+build+it.+I+ship+it.;Building+multiplayer+games+%26+AI+tools;SIH+2026+%E2%9C%A6+always+in+hackathon+mode" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=git+commit+-m+%22fix+everything%22;Third-year+%40+Mumbai;I+design+it.+I+build+it.+I+ship+it.;Building+multiplayer+games+%26+AI+tools;SIH+2026+%E2%9C%A6+always+in+hackathon+mode" alt="Typing SVG" />
   </a>
 </div>
 
@@ -108,17 +108,7 @@ const rohit = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumawat-dev/rohitkumawat-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumawat-dev/rohitkumawat-dev/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohitkumawat-dev/rohitkumawat-dev/output/github-snake.svg" />
-  </picture>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
