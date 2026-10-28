@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/rohitkumawat-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=git+commit+-m+%22fix+everything%22;Third-year+%40+Mumbai;I+design+it.+I+build+it.+I+ship+it.;Building+multiplayer+games+%26+AI+tools;SIH+2026+%E2%9C%A6+always+in+hackathon+mode" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=git+commit+-m+%22fix+everything%22;Third-year+Btech+Student;I+design+it.+I+build+it.+I+ship+it.;Building+multiplayer+games+%26+AI+tools;+Always+in+Hackathon+mode" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitkumawat-dev&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/rohitkumawat-dev?tab=followers"><img src="https://img.shields.io/github/followers/rohitkumawat-dev?style=for-the-badge&logo=github&color=7c3aed&labelColor=1a1b27" alt="Followers"/></a>
   <img src="https://img.shields.io/badge/📍_Mumbai-India-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Location"/>
 </div>
 
