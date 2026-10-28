@@ -1,7 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/34083010/README.2.md)
-# Hi, I'm Rohit 👋
-
-<!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rohit%20Kumawat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20%C3%97%20Developer%20%7C%20Hackathon%20Grinder&descAlignY=58&descSize=18" width="100%"/>
 </div>
@@ -24,23 +20,22 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```js
 const rohit = {
-  role: "Third-year BTech student (EXTC) 🎓",
-  base: "Mumbai, India 🇮🇳",
-  background: ["Graphic Design @ GDG on Campus (1 yr)", "Full-stack & Python tinkering"],
-  hackathons: "SIH 2026 — built solo & carried a team from internals to the submission round",
-  currentlyBuilding: ["Velocia (Manakya) — Indian Standards recommender", "Prayas — a learning platform"],
-  funFact: "I design my own UI, then break it, then fix it. Repeat.",
+  role: "Third-year BTech student",
+  base: "Mumbai, India",
+  background: ["Graphic Designer @ GDG on Campus (1 yr)", "Full-stack developer"],
+  hackathons: "SIH 2026 — Shipped high quality work from brainstorming to final submission",
+  currentlyBuilding: ["(Manakya) — Indian Standards recommender", "Prayas — a learning platform"],
   openTo: ["Freelance design + web work", "Hackathon teams", "Cool collabs"]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres,git,github,figma,vscode&theme=dark" alt="Tech stack" />
@@ -84,6 +79,8 @@ const rohit = {
   </a>
 </div>
 
+
+
 | Project | What it does |
 |---|---|
 | 🏎️ **[TypeBaazi](https://typebaazi.onrender.com)** | Multiplayer type-racing game built with Java + PostgreSQL. Race your friends live. |
@@ -91,7 +88,8 @@ const rohit = {
 | 📚 **[Manakya / Velocia](https://github.com/rohitkumawat-dev/Manakya)** | Hybrid BM25 + semantic search recommender for Indian Standards (SIH 2026). |
 | 🧪 **[Heisenbros](https://github.com/rohitkumawat-dev/heisenbros)** | Breaking Bad themed, clean portfolio website. |
 
----
+
+
 
 ## 📊 GitHub Stats
 
