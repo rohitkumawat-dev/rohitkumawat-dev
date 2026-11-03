@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:6e6e6e&height=220&section=header&text=Welcome%20to%20Rohit's%20Github&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%2F%3E&descSize=30&descAlignY=60" alt="Welcome banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/rohitkumawat-dev/rohitkumawat-dev/main/assets/banner.png" alt="Welcome to Rohit's Github" />
 </div>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
